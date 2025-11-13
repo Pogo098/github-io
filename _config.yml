@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Pogo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "一个热爱打诨又装作很忙录的人"
-  location         : "中国"
+  bio              : "路漫漫其修远兮 吾将上下而求索"
+  location         : "未知"
   email            :
   links:
     - label: "Email"
